@@ -179,7 +179,7 @@
 				TargetAttributes = {
 					BDD055EE1BC3F809000C5112 = {
 						CreatedOnToolsVersion = 7.0.1;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1020;
 					};
 					BDD055F81BC3F809000C5112 = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -192,6 +192,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = BDD055E51BC3F809000C5112;
@@ -383,8 +384,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_INCLUDE_PATHS = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -410,8 +410,7 @@
 				PRODUCT_NAME = OTPGenerator;
 				SKIP_INSTALL = YES;
 				SWIFT_INCLUDE_PATHS = "";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
